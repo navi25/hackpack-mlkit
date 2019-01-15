@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hackpack-mlkit</string>
+    <string name="labels_placeholder">Image Labels</string>
+
+    <string name="btn_take_photo">Take Photo</string>
+</resources>
